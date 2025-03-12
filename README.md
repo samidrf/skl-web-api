@@ -1,4 +1,4 @@
-# Sistem Pengelolaan Form Surat Keterangan Kelahiran (SKL)
+# Sistem Pengelolaan Surat Keterangan Kelahiran (SKL)
 
 Sistem ini adalah aplikasi berbasis Flask untuk mengelola formulir pembuatan SKL. Aplikasi ini memiliki fitur autentikasi pengguna dengan peran **admin** dan **user**, serta mendukung penyimpanan data menggunakan MySQL.
 
