@@ -297,7 +297,6 @@ repository
 │   │-- config.py       # Konfigurasi aplikasi (database, JWT, dll)
 │   │-- models.py       # Model database menggunakan SQLAlchemy
 │   │-- schemas.py      # Validasi data menggunakan Pydantic
-│   │-- _pycache_/      # File bytecode Python yang dikompilasi
 │   │-- temp/           # Direktori untuk file sementara
 │   │   │-- SKL.pdf     # Contoh file PDF SKL yang dihasilkan
 │   │-- test_api/       # Direktori untuk pengujian API
