@@ -181,7 +181,7 @@ Gunakan Postman untuk mengirimkan request berikut:
 ## 4. Mendapatkan Detail SKL Berdasarkan Nama Anak
 
 **Metode:** POST  
-**URL:** `http://127.0.0.1:5000/api/skl/detail`  
+**URL:** `http://127.0.0.1:5000/api/skl/detail_skl`  
 **Headers:**
 - Content-Type: application/json
 - Authorization: Bearer <YOUR_ACCESS_TOKEN>
@@ -245,7 +245,7 @@ Gunakan Postman untuk mengirimkan request berikut:
 ## 6. Mengunduh SKL dalam Format PDF
 
 **Metode:** POST  
-**URL:** `http://127.0.0.1:5000/api/skl/download`  
+**URL:** `http://127.0.0.1:5000/api/skl/download_skl`  
 **Headers:**
 - Content-Type: application/json
 - Authorization: Bearer <YOUR_ACCESS_TOKEN>
